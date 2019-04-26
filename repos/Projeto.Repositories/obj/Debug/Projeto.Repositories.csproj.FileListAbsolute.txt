@@ -1,0 +1,14 @@
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\Projeto.Repositories.dll.config
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\Projeto.Repositories.dll
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\Projeto.Repositories.pdb
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\Projeto.Entities.dll
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\Projeto.Entities.pdb
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Tees\source\repos\Projeto.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tees\source\repos\Projeto.Repositories\obj\Debug\Projeto.Repositories.csprojAssemblyReference.cache
+C:\Users\Tees\source\repos\Projeto.Repositories\obj\Debug\Projeto.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Tees\source\repos\Projeto.Repositories\obj\Debug\Projeto.Repositories.csproj.CopyComplete
+C:\Users\Tees\source\repos\Projeto.Repositories\obj\Debug\Projeto.Repositories.dll
+C:\Users\Tees\source\repos\Projeto.Repositories\obj\Debug\Projeto.Repositories.pdb
